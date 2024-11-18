@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/projects_react_app/static/css/main.22f53d76.css",
+    "main.js": "/projects_react_app/static/js/main.21d9a64e.js",
+    "static/media/calculator.PNG": "/projects_react_app/static/media/calculator.b71e9b2e452bce61980a.PNG",
+    "static/media/github.png": "/projects_react_app/static/media/github.ecf329c2c06a1f41fae4.png",
+    "static/media/Photo.JPEG": "/projects_react_app/static/media/Photo.62518e0702ec1a4d2e1d.JPEG",
+    "static/media/chatapp.PNG": "/projects_react_app/static/media/chatapp.dabbf0c8622672ee6726.PNG",
+    "static/media/react.png": "/projects_react_app/static/media/react.0cf951a69d8e58f83f9d.png",
+    "static/media/prayer.PNG": "/projects_react_app/static/media/prayer.7f1458ccd2b042206cb5.PNG",
+    "static/media/crypto.PNG": "/projects_react_app/static/media/crypto.532354c1bfe62d1b6419.PNG",
+    "static/media/Weather.PNG": "/projects_react_app/static/media/Weather.e65f0706685d054c6f52.PNG",
+    "static/media/todo.PNG": "/projects_react_app/static/media/todo.0ef30179a7a93693a2f5.PNG",
+    "static/media/calendar.PNG": "/projects_react_app/static/media/calendar.0acb39f1ff48b962ae92.PNG",
+    "static/media/snake.PNG": "/projects_react_app/static/media/snake.58c2d5c1e96eff07a52f.PNG",
+    "static/media/clock.PNG": "/projects_react_app/static/media/clock.68f9e6fc24f0fef4a7fb.PNG",
+    "static/media/javascript.png": "/projects_react_app/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
+    "static/media/resizer.PNG": "/projects_react_app/static/media/resizer.c1087610fd45762f79e1.PNG",
+    "index.html": "/projects_react_app/index.html",
+    "main.22f53d76.css.map": "/projects_react_app/static/css/main.22f53d76.css.map",
+    "main.21d9a64e.js.map": "/projects_react_app/static/js/main.21d9a64e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.22f53d76.css",
+    "static/js/main.21d9a64e.js"
+  ]
+}
